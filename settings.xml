@@ -1,0 +1,15 @@
+<settings>
+    <profiles>
+        <profile>
+            <id>sonar</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <properties>
+                <sonar.host.url>http://localhost:9000</sonar.host.url>
+                <sonar.projectKey>mykey</sonar.projectKey>
+                <sonar.login>c3fd4fe969d892837c0398c30da09f37712a600c</sonar.login>
+            </properties>
+        </profile>
+     </profiles>
+</settings>
